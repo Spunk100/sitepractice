@@ -68,6 +68,8 @@ coverage.xml
 *.mo
 
 # Django stuff:
+/static
+/media
 
 # Flask stuff:
 instance/
